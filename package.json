@@ -1,0 +1,29 @@
+{
+  "name": "babel-runtime-corejs3",
+  "version": "0.0.1",
+  "description": "Use babel-runtime@6.x with core-js@3.x or use both babel-runtime@6.x and @babel/runtime@7.x",
+  "keywords": [
+    "babel",
+    "runtime",
+    "core-js",
+    "corejs",
+    "corejs3"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/Cweili/babel-runtime-corejs3",
+  "author": "Cweili <3weili@gmail.com>",
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "regenerator-runtime": "^0.13.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-helpers": "^6.24.1",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-types": "^6.26.0",
+    "lodash": "^4.17.19",
+    "output-file-sync": "^2.0.1"
+  }
+}
