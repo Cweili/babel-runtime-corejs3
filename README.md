@@ -1,7 +1,6 @@
 # babel-runtime-corejs3
 
 [![npm][badge-version]][npm]
-[![bundle size][badge-size]][bundlephobia]
 [![npm downloads][badge-downloads]][npm]
 [![license][badge-license]][license]
 
@@ -52,9 +51,6 @@ plugins: [
 [badge-version]: https://img.shields.io/npm/v/babel-runtime-corejs3.svg
 [badge-downloads]: https://img.shields.io/npm/dt/babel-runtime-corejs3.svg
 [npm]: https://www.npmjs.com/package/babel-runtime-corejs3
-
-[badge-size]: https://img.shields.io/bundlephobia/minzip/babel-runtime-corejs3.svg
-[bundlephobia]: https://bundlephobia.com/result?p=babel-runtime-corejs3
 
 [badge-license]: https://img.shields.io/npm/l/babel-runtime-corejs3.svg
 [license]: https://github.com/Cweili/babel-runtime-corejs3/blob/master/LICENSE
